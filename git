@@ -12,3 +12,6 @@ git remote remove origin
         .idea
         __pycache__\
         venv
+
+
+git clone link
