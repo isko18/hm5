@@ -48,6 +48,7 @@ class SlotMachine:
         self.__game_balance -= money
         self.__user_balance += money
 
+
     def main(self):
         while True:
             try:

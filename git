@@ -15,3 +15,6 @@ git remote remove origin
 
 
 git clone link
+git remote remove origin
+
+rm - remove
