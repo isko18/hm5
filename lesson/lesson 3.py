@@ -86,7 +86,6 @@ class Micro:
     def stop(self):
         print('stop')
 
-
 c = Micro('samsung')
 
 
