@@ -115,3 +115,4 @@ class Чайник:
 h = Чайник('tefal')
 # h.on()
 # h._woter()
+print('это lesson 3')
